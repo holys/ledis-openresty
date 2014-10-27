@@ -36,6 +36,7 @@ local commands = {
     "mset",
     "set",
     "setnx",
+    "setex",
     "ttl",
     "expire",
     "expireat",
